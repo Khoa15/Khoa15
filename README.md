@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+😋I am deeply passionate about technology, especially the recent breakthroughs in artificial intelligence. This almost fairy-tale world has completely captivated me. I am eager to contribute and help turn these incredible advancements into reality.
 <!--
 **Khoa15/Khoa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
