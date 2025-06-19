@@ -1,5 +1,11 @@
 ## Hi there 👋
-😋I am deeply passionate about technology, especially the recent breakthroughs in artificial intelligence. This almost fairy-tale world has completely captivated me. I am eager to contribute and help turn these incredible advancements into reality.
+My interests: AI and Backend system.
+- 🌱 I’m currently learning: everything about Software Engineer and AI Engineer.
+- 📫 How to reach me: nguyentrongdangkhoa15@gmail.com or khoa15503.work@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,cs,dotnet,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,flutter,angular,jquery,pytorch,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,anaconda,vscode,ubuntu)](https://skillicons.dev)
 <!--
 **Khoa15/Khoa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
